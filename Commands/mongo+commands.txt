@@ -1,3 +1,4 @@
+ls
 1
 -- Now we can open interactive terminal for mongo
 
